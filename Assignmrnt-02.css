@@ -1,0 +1,135 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+    color: #3E3E3E;
+}
+
+.nike-logo{
+    width: 12em;
+    margin-left: 100px;
+}
+
+
+.manu-bar {
+    margin-right: 100px;
+   
+
+}
+
+
+.main-taitle{
+    margin-left: 200px;
+}
+
+h1.home-title-1{
+    font-size: 3.3rem;
+    font-weight: 500;
+    color: #fa804c;
+}
+h1.home-title-2{
+     font-size: 3.3rem;
+    font-weight: 500;
+}
+
+
+.w-100{
+    margin-left: 100px;
+   
+
+}
+
+h5{
+    color:#fa804c;
+    
+}
+
+.color-bg{
+    background-color:lightgray;
+    height: 400px;
+}
+
+.cart-btn{
+    border-radius: 0.6rem;
+    background: linear-gradient(45deg ,#3D4FF3, #3543BC);
+    width: 8em;
+}
+.card-btn title{
+    color: #fa804c;
+    font-size: 1.8rem;
+    font-weight: 800;
+}
+.card-border {
+    border: none !important;
+    border-radius: 1em !important;
+    background-color: white !important;
+}
+
+.card-footer-border{
+   border-top: none;
+   background-color:light;
+}
+
+.box-item{
+    border-radius: 1rem !important;
+   
+}
+footer{
+    background:#111;
+    padding: 100px;
+}
+
+.card-footer{
+    margin-bottom: 50px;
+}
+
+
+.box-text{
+    color:#999;
+    }
+
+    .input-text-box input{
+        border:1px solid #999;
+        outline:none ;
+        background:no-repeat;
+        width: 100%;
+        padding:2px 9px ;
+        color: white;
+    }
+   
+    .pic-size{
+        margin-top: 50%;
+    }
+
+    .input-text-box{
+    position: relative;
+    
+    }
+
+   .input-text-button{
+       background: none;
+       color: #999;
+       position: absolute;
+       top: 11%;
+       transform: translate(-100%);
+       border: none;
+   }
+   
+   .icon{
+       width: 100px;
+       margin-left: 20px;
+   }
+
+   .text-mrg{
+       margin-left:50px ;
+       font-size: 20px;
+   }
+
+   .p-marg{
+    margin-left:30px ;
+    
+   }
+header{
+    background-color: #FFF9F4;
+}
